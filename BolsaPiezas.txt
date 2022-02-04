@@ -10,6 +10,6 @@ x0 tornillos decorativos
 x0 visagras exterior
 x6 visagras interior
 x2 huecos percha
-x2 tope de plastico
+x0 tope de plastico
 x1 bolsa de clavos
 x1 tubo perchero
