@@ -1,2 +1,4 @@
 x2 tornillo decorativo
 x4 palos
+x1 esquinera
+x1 tornillo 45mm
