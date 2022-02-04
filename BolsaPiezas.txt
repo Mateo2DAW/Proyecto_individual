@@ -2,14 +2,14 @@ x1 herramienta para girar tornillos
 x0 tornillos 15mm
 x0 palos
 x0 esquinera
-x12 tornillos 30mm
-x1 tornillos 45mm
-x2 pomos
-x2 tornillos largos
+x0 tornillos 30mm
+x0 tornillos 45mm
+x0 pomos
+x0 tornillos largos
 x0 tornillos decorativos
 x0 visagras exterior
-x6 visagras interior
-x2 huecos percha
+x0 visagras interior
+x0 huecos percha
 x0 tope de plastico
 x0 bolsa de clavos
-x1 tubo perchero
+x0 tubo perchero

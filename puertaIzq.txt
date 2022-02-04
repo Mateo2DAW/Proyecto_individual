@@ -1,2 +1,5 @@
 x3 visagras exterior
-x6 tornillos 30mm
+x12 tornillos 30mm
+x1 tornillo largo
+x3 visagras interior
+x1 pomo
