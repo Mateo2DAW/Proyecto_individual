@@ -1,5 +1,5 @@
 x1 herramienta para girar tornillos
-x10 tornillos 15mm
+x8 tornillos 15mm
 x14 palos
 x0 esquinera
 x14 tornillos 30mm
